@@ -1,0 +1,27 @@
+name: Render and Publish Quarto site
+on:
+  push:
+    branches: [ "main" ]   # build on every commit to main
+  workflow_dispatch:       # …and allow manual re-runs
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write      # allow the action to push to gh-pages
+    steps:
+      - uses: actions/checkout@v4
+
+      # Install the latest Quarto
+      - uses: quarto-dev/quarto-actions/setup@v2
+
+      # Render the site into docs/
+      - name: Render site
+        run: quarto render
+
+      # Publish the docs/ folder to the gh-pages branch
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
