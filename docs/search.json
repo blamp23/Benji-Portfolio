@@ -60,7 +60,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+    "text": "::: {.grid} \n\n\n\n\nFall 2024 — Teaching Assistant\nDepartment of Veterinary Physiology & Pharmacology (Dr. Ivan Ivanov)\nI co-designed an introductory R curriculum for microarray analysis and mentored students on:\n\nLoading and preprocessing expression sets\n\nDifferential expression with limma\n\nBuilding reproducible, well-documented workflows in R Markdown\n\nThe goal was not just mastering the software, but cultivating reproducible science habits.\n\n:::"
   },
   {
     "objectID": "teaching.html#class-1",
@@ -145,5 +145,12 @@
     "title": "People",
     "section": "Alumni",
     "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching.html#vtpp-438",
+    "href": "teaching.html#vtpp-438",
+    "title": "Teaching",
+    "section": "",
+    "text": "::: {.grid} \n\n\n\n\nFall 2024 — Teaching Assistant\nDepartment of Veterinary Physiology & Pharmacology (Dr. Ivan Ivanov)\nI co-designed an introductory R curriculum for microarray analysis and mentored students on:\n\nLoading and preprocessing expression sets\n\nDifferential expression with limma\n\nBuilding reproducible, well-documented workflows in R Markdown\n\nThe goal was not just mastering the software, but cultivating reproducible science habits.\n\n:::"
   }
 ]

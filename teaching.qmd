@@ -1,67 +1,29 @@
 ---
 title: "Teaching"
-subtitle: "I teach."
 title-block-banner: false
 ---
 
+## VTPP 438
 
-## Class 1
-
-::: {.grid}
+::: {.grid} <!-- start the grid -->
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
-
+![](files/images/Microarray.jpg){fig-alt="Stylised microarray graphic"}
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+**Fall 2024 — Teaching Assistant**  
+*Department of Veterinary Physiology & Pharmacology (Dr. Ivan Ivanov)*
 
-Class 1 introduction.
+I co-designed an **introductory R curriculum** for microarray analysis and mentored students on:
 
-:::
+- Loading and preprocessing expression sets  
+- Differential expression with **limma**  
+- Building reproducible, well-documented workflows in **R Markdown**  
 
-:::
-
-
-## Class 2
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
+The goal was not just mastering the software, but cultivating reproducible science habits.
 
 :::
 
-::: {.g-col-12 .g-col-md-10}
-
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 2 introduction.
-
-:::
-
-:::
-
-
-## Class 3
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
-
-Class 3 introduction. 
-
-:::
-
-:::
-
-
+::: <!-- end the grid -->
