@@ -5,25 +5,25 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Quarto Academic</title>
+<title>Benji&#39;s Portfolio</title>
 <link>https://drganghe.github.io/quarto-academic-website-template/posts.html</link>
 <atom:link href="https://drganghe.github.io/quarto-academic-website-template/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Quarto Academic Website Template adapted by Dr. Gang He</description>
 <image>
 <url>https://quarto.org/quarto.png</url>
-<title>Quarto Academic</title>
+<title>Benji&#39;s Portfolio</title>
 <link>https://drganghe.github.io/quarto-academic-website-template/posts.html</link>
 </image>
 <generator>quarto-1.7.32</generator>
-<lastBuildDate>Tue, 15 Oct 2024 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Feb 2025 08:00:00 GMT</lastBuildDate>
 <item>
-  <title>Quarto Academic Website Examples and Tips</title>
+  <title>Discovering New Interest: BIMS Student Embraces Legen-Dairy Research Opportunities</title>
   <link>https://drganghe.github.io/quarto-academic-website-template/</link>
-  <description>Examples and tips for Quarto Academic Website</description>
+  <description>Thanks to opportunities through the BIMS program, undergraduates are being introduced to new career paths.</description>
   <category>news</category>
   <guid>https://drganghe.github.io/quarto-academic-website-template/</guid>
-  <pubDate>Tue, 15 Oct 2024 07:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
+  <pubDate>Wed, 12 Feb 2025 08:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/imgc_award.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Event item</title>

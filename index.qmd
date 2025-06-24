@@ -54,42 +54,75 @@ listing:   # Comment the listing section and delete corresponding lines in the i
       - "title asc"
 ---
 
-:::{#hero-heading}
+::: {#hero-heading}
+## Howdy, y’all! I'm **Benji Lamp**
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+Welcome to my website! Here you’ll find a snapshot of who I am, the research I’m working on, and any news worth sharing.
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
+------------------------------------------------------------------------
 
-1. **Star** this repository to bookmark it for future reference.  
-1. **Fork** this repository and rename it to `YourGitHubUserName.github.io`.  
-1. **Update** the `_quarto.yml` file to configure your site’s basic settings.  
-1. **Add or edit content** in the following files and folders:
-   - `/posts/` – posts about publications, news, events  
-   - `teaching.qmd` – teaching information  
-   - `projects.yml` – research or other projects  
-   - `people.qmd` and `/people/` – team or collaborators  
-   - `/files/` - profiles, images, pdfs, and includes 
-1. [**Render and preview**](https://quarto.org/docs/websites/) your site locally.  
-1. [**Publish**](https://quarto.org/docs/publishing/github-pages.html) your site using GitHub Pages (make sure [configuring](https://quarto.org/docs/publishing/images/gh-pages-docs-dir.png) your GitHub repository to publish from the `docs` directory, not the `root` folder). 
-1. **Refine and polish** your content and design as needed.  
-1. ✅ Enjoy your new website!
+### A quick back-story
 
-## Experience
+I’m originally from **Plano, Texas**, but my passion for **Bioinformatics & Computational Biology** really took off in College Station while earning the **Biomedical Research Certificate** at Texas A&M. Through the Vet School, I dove into large transcriptomic datasets and haven’t looked back.
 
-- Researcher, Univerisity
+### Oregon ties
+
+These days I also spend time collaborating with the **Karstens Lab** in Oregon, improving our long-read 16S rRNA sequencing pipelines to better understand the **female urinary microbiome**.
+
+### What’s next
+
+I’m now based in **Houston** and kicking off a Ph.D. in **Dr. David Hala’s lab** at **Texas A&M Galveston**, using a systems-toxicology lens to study **PFAS (“forever chemicals”)** in zebrafish models.
+
+Thanks to a **Hagler Institute for Advanced Study Fellowship**, I’ll also be mentored by **Dr. Robyn Tanguay** of **Oregon State University**, one of the world’s leading zebrafish scientist.
+
+------------------------------------------------------------------------
+
+If you ever need a hand with sequence-processing pipelines (or just want to chat all things -omics) feel free to reach out. I’m always looking to take on new skills and collaborations.
 
 ## Education
 
-- PhD, Univerisity
+**Texas A&M University – Galveston, TX**\
+Ph.D. in Marine Biology *Fall 2025 – Present*
 
+-   Hagler Institute Graduate Research Fellowship
+
+**Texas A&M University – College Station, TX**\
+B.S. in Biomedical Sciences *Fall 2021 – Spring 2025*
+
+-   Minor in Bioinformatics
+
+-   Certificate in Biomedical Reseacrh
+
+## Experience
+
+**Texas A&M University (Rijnkels Lab)**\
+*Research Assistant (Bioinformatics)*\
+September 2023 – Present
+
+**Texas A&M University (Equine Infectious Disease Lab)**\
+*Research Assistant (Bioinformatics)*\
+February 2025 – Present
+
+**Oregon Health & Science University**\
+*Research Assistant (Karstens Lab)*\
+August 2024 – August 2025
+
+**Oregon Health & Science University**\
+*Summer Research Intern (NIH R25 Training Grant)*\
+June 2024 – August 2024
 :::
-
 
 <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
 
-:::{#recent-posts}
+## Recent Posts
+
+Check out the latest  [Papers](posts.qmd#category=paper) ,  [News](posts.qmd#category=news) ,  [Events](posts.qmd#category=event) , and  [More »](/posts.qmd)
+
+::: {#recent-posts}
 :::
 
-<p align="right">[All Posts »](/posts.qmd)</p>
+<p align="right">
+
+[All Posts »](/posts.qmd)
+
+</p>
