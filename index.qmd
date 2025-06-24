@@ -1,7 +1,7 @@
 ---
-title: "Quarto Academic, PhD"
+title: "Benji Lamp"
 description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/images/placeholder4.JPG"
+image: "files/images/lilly_benji.jpeg"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -12,36 +12,25 @@ about:
   template: trestles
   image-width: 70%
   links:
-    - icon: sun
-      text: Lab
-      href: https://www.github.com
-      target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/blamp23
       target: _blank
     - icon: envelope
-      text: E-mail
-      href: mailto:email@gmail.com    
+      text: Email - TAMU
+      href: mailto:blamp25@tamu.edu 
+    - icon: envelope
+      text: Email - OHSU
+      href: mailto:lampb@ohsu.edu
+    - icon: envelope
+      text: Email - Personal
+      href: mailto:lampb@ohsu.edu      
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com/in/benji-lamp
       target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
-      target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
-      target: _blank
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
+      href: https://orcid.org/0009-0007-9098-526X
       target: _blank
 #    - text: "{{< ai researchgate >}} Research Gate"
 #      href: https://www.researchgate.net
