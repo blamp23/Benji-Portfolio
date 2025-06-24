@@ -22,9 +22,7 @@ website:
           - text: News
             href: posts.qmd#category=news
           - text: Events
-            href: posts.qmd#category=event      
-          - text: Contact
-            href: contact.qmd             
+            href: posts.qmd#category=even           
       - text: Research
         menu:
           - text: List of Publications
