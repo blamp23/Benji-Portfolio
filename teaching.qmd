@@ -3,27 +3,25 @@ title: "Teaching"
 title-block-banner: false
 ---
 
-## VTPP 438
+::: {.teaching-entry}
 
-::: {.grid} <!-- start the grid -->
+![Microarray Example](files/images/Microarray.jpg){fig-alt="Stylised microarray graphic"}
 
-::: {.g-col-12 .g-col-md-2}
-![](files/images/Microarray.jpg){fig-alt="Stylised microarray graphic"}
-:::
+<div>
 
-::: {.g-col-12 .g-col-md-10}
+### VTPP 438 — Analysis of Genomic Signals
 
 **Fall 2024 — Teaching Assistant**  
-*Department of Veterinary Physiology & Pharmacology (Dr. Ivan Ivanov)*
+*Department of Veterinary Physiology & Pharmacology (Dr. Ivan Ivanov)*  
 
 I co-designed an **introductory R curriculum** for microarray analysis and mentored students on:
 
 - Loading and preprocessing expression sets  
 - Differential expression with **limma**  
-- Building reproducible, well-documented workflows in **R Markdown**  
+- Building reproducible, well-documented workflows in **R Markdown**
 
-The goal was not just mastering the software, but cultivating reproducible science habits.
+The goal was not just mastering software, but cultivating reproducible-science habits.
+
+</div>
 
 :::
-
-::: <!-- end the grid -->

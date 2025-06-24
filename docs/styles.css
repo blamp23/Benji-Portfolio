@@ -1,1 +1,14 @@
 /* css styles */
+
+/* --- two–column teaching blocks ----------------------------- */
+.teaching-entry {
+  display: flex;           /* image on the left, text on the right          */
+  align-items: flex-start; /* top-align the two columns                     */
+  gap: 1.2rem;             /* space between them                            */
+  margin-bottom: 2rem;     /* breathing room before the next course block   */
+}
+
+.teaching-entry img {
+  width: 200px;            /* keep every teaching thumbnail the same size   */
+  flex-shrink: 0;          /* never let the image shrink when screen narrows*/
+}
