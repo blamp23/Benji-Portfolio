@@ -109,14 +109,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "::: {.grid} \n\n\n\n\nFall 2024 — Teaching Assistant\nDepartment of Veterinary Physiology & Pharmacology (Dr. Ivan Ivanov)\nI co-designed an introductory R curriculum for microarray analysis and mentored students on:\n\nLoading and preprocessing expression sets\n\nDifferential expression with limma\n\nBuilding reproducible, well-documented workflows in R Markdown\n\nThe goal was not just mastering the software, but cultivating reproducible science habits.\n\n:::"
-  },
-  {
-    "objectID": "teaching.html#vtpp-438",
-    "href": "teaching.html#vtpp-438",
-    "title": "Teaching",
-    "section": "",
-    "text": "::: {.grid} \n\n\n\n\nFall 2024 — Teaching Assistant\nDepartment of Veterinary Physiology & Pharmacology (Dr. Ivan Ivanov)\nI co-designed an introductory R curriculum for microarray analysis and mentored students on:\n\nLoading and preprocessing expression sets\n\nDifferential expression with limma\n\nBuilding reproducible, well-documented workflows in R Markdown\n\nThe goal was not just mastering the software, but cultivating reproducible science habits.\n\n:::"
+    "text": "Microarray Example\n\n\n\nVTPP 438 — Analysis of Genomic Signals\nFall 2024 — Teaching Assistant\nDepartment of Veterinary Physiology & Pharmacology (Dr. Ivan Ivanov)\nI co-designed an introductory R curriculum for microarray analysis and mentored students on:\n\nLoading and preprocessing expression sets\n\nDifferential expression with limma\n\nBuilding reproducible, well-documented workflows in R Markdown\n\nThe goal was not just mastering software, but cultivating reproducible-science habits."
   },
   {
     "objectID": "projects.html",
