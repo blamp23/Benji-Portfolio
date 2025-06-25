@@ -1,0 +1,24 @@
+---
+title: "Presentation at the International Milk Genomics Consortium Symposium"
+description: "Invited speaker and recipient of the IMGC student speaker award."
+subtitle: "*VIBS?*"
+author: 
+  - name: Benji Lamp
+  - name: Monique Rijnkels PhD
+
+date: "2025-02-01"
+categories: [presentations, awards, cows]
+image: "featured.jpg"
+---
+
+<!--Include academic icons or bottons-->
+
+{{< include /files/includes/_academic.qmd >}}
+
+# Intro 
+
+In october _date_, I was invited to come speak at the International Milk Genomics Consortium Symposium over the work that Dr. Rijnkels and I have been doing related to expression patterns of genes in holstein fresian cattle over a timecourse. I was blessed to recive a travel award by the IMGC in order to get to Davis California. 
+This was my first academic conference that I have ever attended. My presentation went... okay. Just being blunt, this was the most people I have ever had to present to, so my presentation was a bit shaky, but we got a bunch of good feedback that will hopefully be included in the final paper. 
+
+In addition to visiting Davis, I got the chance to meet my dad in San Franscisco, as he does a lot of work in tech, my mom caught a flight as well, and we all had a fun weekend exploring San Fransisco, and stopping by a couple of wineries in Napa. Definitley visiting again!
+

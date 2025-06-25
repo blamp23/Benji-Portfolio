@@ -19,16 +19,18 @@ website:
 #        href: index.qmd
       - text: About
         menu:
+          - text: Whats Happening?
+            href: posts.qmd
           - text: News
             href: posts.qmd#category=news
           - text: Events
             href: posts.qmd#category=even           
       - text: Research
         menu:
-          - text: List of Publications
-            href: publications.qmd
-          - text: Selected Papers
-            href: posts.qmd#category=paper
+          - text: Undergrad Research
+            href: u_research.qmd
+          - text: Graduate Research
+            href: g_research.qmd
           - text: Grants
             href: projects.qmd                                
       - text: Teaching # Comment the Teaching part out to remove the Teaching page

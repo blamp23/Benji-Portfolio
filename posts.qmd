@@ -1,5 +1,5 @@
 ---
-title: "What’s New & Updated"
+title: "What's Happening"
 subtitle: "Posts about papers, events, news, and more"
 description-meta: "Posts about papers, events, news, and more"
 listing: 

@@ -1,0 +1,25 @@
+---
+title: "Undergraduate Research"
+subtitle: "Posts about what I accomplished in undergrad"
+description-meta: "Posts about what I accomplished in undergrad"
+listing: 
+  sort: "date desc"
+  type: default
+  page-size: 100
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: true
+  contents: 
+      - u_research
+      - posts/post-links.yml  # Use this file to add external links
+#      categories: [] 
+
+#page-layout: full
+draft-mode: unlinked
+page-navigation: false
+title-block-banner: false
+---
+
+:::{#u_research}
+:::

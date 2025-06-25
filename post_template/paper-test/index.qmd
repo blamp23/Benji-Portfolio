@@ -1,0 +1,60 @@
+---
+title: "June Trip to OHSU"
+description: "June 17-25 2025, I traveled to Portland OR for the Cascadia R Conference and Lab Meetings at OHSU!"
+date: "2025-05-25"
+categories: [news]
+image: "featured.jpg"
+#citation:
+#  type: article-journal
+#  container-title: "Physical Review"
+#  doi: "10.1103/PhysRev.47.777"
+#  available-date: "1935-05-15"
+#  issued: "1935-05-15"
+#  volume: 47
+#  issue: 7938
+#  page: 777-80
+#  url: https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777
+#google-scholar: true
+---
+
+<!--Include academic icons or bottons-->
+
+{{< include /files/includes/_academic.qmd >}}
+
+
+## Travel 
+
+May 2025, I took on the responsibility of continuing my work at Oregon Health & Science University as a part of the karstens lab, transitioning from part-time (10hrs/wk) to Full time-remote. I have been working for OHSU since June of 2024, when I was an intern in the department of Biomedical Informatics and Clinical Epidemiology. I reported to the karstens lab, whos work centers around the female urinary microbiome. I have loved my time in the karstens lab, so when a research assistant position opened up while I was completimg my unndergrad, I jumped on the oppritunity to grow my skills. 
+
+All that background is to say, I have not been back to portland since August '24. Honestly, I didnt ever know If I would be back here, but doors open as they often do, and I was able to come up for a couple of lab meetings and the R Cascadia Conference. 
+
+## R Cascadia 
+
+The R cascadia conference went really well. My only other 'conference' experience (excluding TAMU SRW '24/'25) was the International Milk Genomics Consortium Symposium where I spoke about my cows, but this conferenc was really different. It was definetly a lot less 'poresent research' based as much as it was skills improvment based. On Day 1, I got the chance to go to an all-day GitHub workshop. Previously, I had only used github to store my code, I only really knew how to push and pull stuff, but the workshops taught me a lot about the github workflow, branching, being a repo admin, leading a team in colaberative coding, and some other cool stuff. I actually used the skills I learned in the workshop to build this website, automate rendering whenever I push to main. 
+
+I also used a lot of the skills I learned to generate my own. github workshop! On 05-24-2025, I got the chance to lead everyone in a github for R workshop that went over how to use the OHSU enterprise github accounts, and practice basic github commands on. the command line to work with karstens lab materials and start thinking about storing our code on github, not onedrive. 
+
+## Lab Work
+
+Getting to see everyone in person was awsome! There are a bunch of new members in the karstens lab since last summer. When I was an intern, it only felt like me, Charles Parker, Dr. (Lisa) Karstens, and Nate Boyer (He came in as a Ph.D. student on his first rotation in late July.). Over the past year, Dr. Keisha Harrsion came on, and nate recently finished all of hes rotations, and decided to complete his Ph.D. in Dr. Karstens Lab! In addition to the mainstays, there are 3 new interns! They all seem really eager to get started, and I hope that they had as good of an experienc as I did whaen I was an Intern.
+
+There have been some big changes to the karstens lab. The lab itself had to relocate from the DMICE departmet to the Knight Cennter for Cancer research on the south waterfront campus. The building, area, and campus itself are awsome. It has a very modern feel - definetly a lot more confortable than working on the hill in my opinion. The caveat of this is major hedaches for Dr.Karstens, and i guess because of the recent chancges on the government and grant side of things, there have been some funding issues, and I guess this is the last year of R25 interns! Sometimes it sucks that I want this to be my career when it is obvious from an outsider perspective that there are a bunch of people in high places that don't want science to blossom like it has the potential to do. 
+
+
+Besides gawking at all of the chancges that happened in the past year, I also did some actual work. When I flew in, I gave a 30 min presentation to introduce my work to the interns/refresh some of our lab members. It was about a 50/50 split between talikng about my analysis of classification schemes for shortread 16S rRNA Amplicon Sequencing data and talking about workflows that we are developing to process pacbio Hifi long read 16S sequencing. Working out of the Knight was super refreshing and I was able to get a lot done in that enviroment. Sometimes it is a bit easier to work in an 'work' enviroment, not just out of my bedroom desk where I can get distracted. 
+
+
+## Fun Stuff
+
+I forgot how much I loved portland! I got the chance to go to a Portland Thorns Womens Major Leauge Soccer game with charles on saturday after the conference. We sat in GA section where their fans stand up and do all of the cheers. It reminded me a lot of an Aggie Football game with the standing the whole time and coordinated chants, but I do think that we are a little bit louder and prouder about our team lol. Regardless, I had a great time cheering on the thorns, and I hope I can go back with charles in the future! After the game we went to a bar close to the stadium. Someone called it a 'dive bar'... The outside looked sketchy, but the inside was sick, it reminded me of the Dixie Chicken (The Marlin Hauz's favorite spot), would rate it a 9/10 bar, there was akaryoke, cheap drinks, and great vibes. 
+
+I also did a big walk on Sunday, wanted to hit some of my fammilar spots. I was a tad groggy from the fun night of soccer, so I started off the morning by going to one of my favorite brealkfast places, Henry Higgins Boiled Bagels in the nob hill area. They have a really good whitefish salad that I got on an everything bagel with capers, onions, dill and lemon. After that, I walked to Powells books and bought a marine biology book (it is one of those photography books that also has some really good species/taxa information), a book about industrial fishing in the 1970s and a baysiean statistics textbook. I was really tied after all of that, so came back to the hotel and took a quick powernap before heading to my favorite store in portalnd, memory den. Memory Den is a mall for vintage resellers, people buy booths I guess, and stock them whith whatever they want. There is one central point of sale, so people dont even have to man the booths, you just pick up what you want and pay at the front. I got a sick tidepool shirt from the newport aquarium and a joke tshirt that says 'Tow Fetish' with a picture of a tow truck (probably cant wear that one in public)
+
+Did a bunch of other cool stuff with the lab, with Charles, but overall, it was a great trip. I am sad to be leaving and I hope that this summer wont be the last time I colaberate with the karstens lab!
+
+
+## Photos
+
+
+
+

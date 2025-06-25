@@ -1,0 +1,25 @@
+---
+title: "Graduate Research"
+subtitle: "Posts about what I am accomplished in grad school"
+description-meta: "Posts about what I am accomplished in grad school"
+listing: 
+  sort: "date desc"
+  type: default
+  page-size: 100
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: true
+  contents: 
+      - g_research
+      - g_research/post-links.yml  # Use this file to add external links
+#      categories: [] 
+
+#page-layout: full
+draft-mode: unlinked
+page-navigation: false
+title-block-banner: false
+---
+
+:::{#g_research}
+:::
