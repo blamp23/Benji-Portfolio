@@ -1,24 +1,31 @@
 [
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "What’s New & Updated",
+    "objectID": "u_research.html",
+    "href": "u_research.html",
+    "title": "Undergraduate Research",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nDiscovering New Interest: BIMS Student Embraces Legen-Dairy Research Opportunities\n\n\n\n\n\n\nnews\n\n\n\nThanks to opportunities through the BIMS program, undergraduates are being introduced to new career paths.\n\n\n\n\n\nFeb 12, 2025\n\n\nMegan Bennett\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nDiscovering New Interest: BIMS Student Embraces Legen-Dairy Research Opportunities\n\n\n\n\n\n\nnews\n\n\n\nThanks to opportunities through the BIMS program, undergraduates are being introduced to new career paths.\n\n\n\n\n\nFeb 12, 2025\n\n\nMegan Bennett\n\n\n\n\n\n\n\n\n\n\n\n\nSequence Processing for the Equine Infectious Disease Lab\n\n\nLarge Animal Clinical Sciences\n\n\n\nBioinformatics\n\n\n\nComparison of enteric innoculation of roddicoccus equi in foals to prevent pneumonia.\n\n\n\n\n\nFeb 1, 2025\n\n\nBenji Lamp, Angela Bordin PhD DVM, Noah Cohen PhD DVM, Ivan Ivanov PhD\n\n\n\n\n\n\n\n\n\n\n\n\nPresentation at the International Milk Genomics Consortium Symposium\n\n\nVIBS?\n\n\n\npresentations\n\nawards\n\ncows\n\n\n\nInvited speaker and recipient of the IMGC student speaker award.\n\n\n\n\n\nFeb 1, 2025\n\n\nBenji Lamp, Monique Rijnkels PhD\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+    "objectID": "u_research/equine-monocytes/index.html#abstract",
+    "href": "u_research/equine-monocytes/index.html#abstract",
+    "title": "Sequence Processing for the Equine Infectious Disease Lab",
+    "section": "Abstract",
+    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
   },
   {
-    "objectID": "publications.html#selected-work",
-    "href": "publications.html#selected-work",
-    "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+    "objectID": "u_research/equine-monocytes/index.html#links",
+    "href": "u_research/equine-monocytes/index.html#links",
+    "title": "Sequence Processing for the Equine Infectious Disease Lab",
+    "section": "Links",
+    "text": "Links\nPublished paper"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Microarray Example\n\n\n\nVTPP 438 — Analysis of Genomic Signals\nFall 2024 — Teaching Assistant\nDepartment of Veterinary Physiology & Pharmacology (Dr. Ivan Ivanov)\nI co-designed an introductory R curriculum for microarray analysis and mentored students on:\n\nLoading and preprocessing expression sets\n\nDifferential expression with limma\n\nBuilding reproducible, well-documented workflows in R Markdown\n\nThe goal was not just mastering software, but cultivating reproducible-science habits."
   },
   {
     "objectID": "index.html",
@@ -53,21 +60,28 @@
     "href": "index.html#recent-posts",
     "title": "Benji Lamp",
     "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nDiscovering New Interest: BIMS Student Embraces Legen-Dairy Research Opportunities\n\n\n\nFeb 12, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nJune Trip to OHSU\n\n\n\nMay 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDiscovering New Interest: BIMS Student Embraces Legen-Dairy Research Opportunities\n\n\n\nFeb 12, 2025\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
   },
   {
-    "objectID": "posts/paper-title/index.html#abstract",
-    "href": "posts/paper-title/index.html#abstract",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Abstract",
-    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
   },
   {
-    "objectID": "posts/paper-title/index.html#links",
-    "href": "posts/paper-title/index.html#links",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Links",
-    "text": "Links\nPublished paper"
+    "objectID": "publications.html#selected-work",
+    "href": "publications.html#selected-work",
+    "title": "Publications",
+    "section": "Selected Work",
+    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html",
@@ -91,31 +105,122 @@
     "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
+    "objectID": "post_template/paper-title/index.html#abstract",
+    "href": "post_template/paper-title/index.html#abstract",
+    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "section": "Abstract",
+    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+  },
+  {
+    "objectID": "post_template/paper-title/index.html#links",
+    "href": "post_template/paper-title/index.html#links",
+    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "section": "Links",
+    "text": "Links\nPublished paper"
+  },
+  {
+    "objectID": "post_template/news-title/index.html",
+    "href": "post_template/news-title/index.html",
     "title": "News item",
     "section": "",
     "text": "About the news"
   },
   {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
+    "objectID": "post_template/news-title/index.html#summary",
+    "href": "post_template/news-title/index.html#summary",
     "title": "News item",
     "section": "",
     "text": "About the news"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Microarray Example\n\n\n\nVTPP 438 — Analysis of Genomic Signals\nFall 2024 — Teaching Assistant\nDepartment of Veterinary Physiology & Pharmacology (Dr. Ivan Ivanov)\nI co-designed an introductory R curriculum for microarray analysis and mentored students on:\n\nLoading and preprocessing expression sets\n\nDifferential expression with limma\n\nBuilding reproducible, well-documented workflows in R Markdown\n\nThe goal was not just mastering software, but cultivating reproducible-science habits."
+    "objectID": "post_template/paper-test/index.html#travel",
+    "href": "post_template/paper-test/index.html#travel",
+    "title": "June Trip to OHSU",
+    "section": "Travel",
+    "text": "Travel\nMay 2025, I took on the responsibility of continuing my work at Oregon Health & Science University as a part of the karstens lab, transitioning from part-time (10hrs/wk) to Full time-remote. I have been working for OHSU since June of 2024, when I was an intern in the department of Biomedical Informatics and Clinical Epidemiology. I reported to the karstens lab, whos work centers around the female urinary microbiome. I have loved my time in the karstens lab, so when a research assistant position opened up while I was completimg my unndergrad, I jumped on the oppritunity to grow my skills.\nAll that background is to say, I have not been back to portland since August ’24. Honestly, I didnt ever know If I would be back here, but doors open as they often do, and I was able to come up for a couple of lab meetings and the R Cascadia Conference."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "post_template/paper-test/index.html#r-cascadia",
+    "href": "post_template/paper-test/index.html#r-cascadia",
+    "title": "June Trip to OHSU",
+    "section": "R Cascadia",
+    "text": "R Cascadia\nThe R cascadia conference went really well. My only other ‘conference’ experience (excluding TAMU SRW ‘24/’25) was the International Milk Genomics Consortium Symposium where I spoke about my cows, but this conferenc was really different. It was definetly a lot less ’poresent research’ based as much as it was skills improvment based. On Day 1, I got the chance to go to an all-day GitHub workshop. Previously, I had only used github to store my code, I only really knew how to push and pull stuff, but the workshops taught me a lot about the github workflow, branching, being a repo admin, leading a team in colaberative coding, and some other cool stuff. I actually used the skills I learned in the workshop to build this website, automate rendering whenever I push to main.\nI also used a lot of the skills I learned to generate my own. github workshop! On 05-24-2025, I got the chance to lead everyone in a github for R workshop that went over how to use the OHSU enterprise github accounts, and practice basic github commands on. the command line to work with karstens lab materials and start thinking about storing our code on github, not onedrive."
+  },
+  {
+    "objectID": "post_template/paper-test/index.html#lab-work",
+    "href": "post_template/paper-test/index.html#lab-work",
+    "title": "June Trip to OHSU",
+    "section": "Lab Work",
+    "text": "Lab Work\nGetting to see everyone in person was awsome! There are a bunch of new members in the karstens lab since last summer. When I was an intern, it only felt like me, Charles Parker, Dr. (Lisa) Karstens, and Nate Boyer (He came in as a Ph.D. student on his first rotation in late July.). Over the past year, Dr. Keisha Harrsion came on, and nate recently finished all of hes rotations, and decided to complete his Ph.D. in Dr. Karstens Lab! In addition to the mainstays, there are 3 new interns! They all seem really eager to get started, and I hope that they had as good of an experienc as I did whaen I was an Intern.\nThere have been some big changes to the karstens lab. The lab itself had to relocate from the DMICE departmet to the Knight Cennter for Cancer research on the south waterfront campus. The building, area, and campus itself are awsome. It has a very modern feel - definetly a lot more confortable than working on the hill in my opinion. The caveat of this is major hedaches for Dr.Karstens, and i guess because of the recent chancges on the government and grant side of things, there have been some funding issues, and I guess this is the last year of R25 interns! Sometimes it sucks that I want this to be my career when it is obvious from an outsider perspective that there are a bunch of people in high places that don’t want science to blossom like it has the potential to do.\nBesides gawking at all of the chancges that happened in the past year, I also did some actual work. When I flew in, I gave a 30 min presentation to introduce my work to the interns/refresh some of our lab members. It was about a 50/50 split between talikng about my analysis of classification schemes for shortread 16S rRNA Amplicon Sequencing data and talking about workflows that we are developing to process pacbio Hifi long read 16S sequencing. Working out of the Knight was super refreshing and I was able to get a lot done in that enviroment. Sometimes it is a bit easier to work in an ‘work’ enviroment, not just out of my bedroom desk where I can get distracted."
+  },
+  {
+    "objectID": "post_template/paper-test/index.html#fun-stuff",
+    "href": "post_template/paper-test/index.html#fun-stuff",
+    "title": "June Trip to OHSU",
+    "section": "Fun Stuff",
+    "text": "Fun Stuff\nI forgot how much I loved portland! I got the chance to go to a Portland Thorns Womens Major Leauge Soccer game with charles on saturday after the conference. We sat in GA section where their fans stand up and do all of the cheers. It reminded me a lot of an Aggie Football game with the standing the whole time and coordinated chants, but I do think that we are a little bit louder and prouder about our team lol. Regardless, I had a great time cheering on the thorns, and I hope I can go back with charles in the future! After the game we went to a bar close to the stadium. Someone called it a ‘dive bar’… The outside looked sketchy, but the inside was sick, it reminded me of the Dixie Chicken (The Marlin Hauz’s favorite spot), would rate it a 9/10 bar, there was akaryoke, cheap drinks, and great vibes.\nI also did a big walk on Sunday, wanted to hit some of my fammilar spots. I was a tad groggy from the fun night of soccer, so I started off the morning by going to one of my favorite brealkfast places, Henry Higgins Boiled Bagels in the nob hill area. They have a really good whitefish salad that I got on an everything bagel with capers, onions, dill and lemon. After that, I walked to Powells books and bought a marine biology book (it is one of those photography books that also has some really good species/taxa information), a book about industrial fishing in the 1970s and a baysiean statistics textbook. I was really tied after all of that, so came back to the hotel and took a quick powernap before heading to my favorite store in portalnd, memory den. Memory Den is a mall for vintage resellers, people buy booths I guess, and stock them whith whatever they want. There is one central point of sale, so people dont even have to man the booths, you just pick up what you want and pay at the front. I got a sick tidepool shirt from the newport aquarium and a joke tshirt that says ‘Tow Fetish’ with a picture of a tow truck (probably cant wear that one in public)\nDid a bunch of other cool stuff with the lab, with Charles, but overall, it was a great trip. I am sad to be leaving and I hope that this summer wont be the last time I colaberate with the karstens lab!"
+  },
+  {
+    "objectID": "post_template/paper-test/index.html#photos",
+    "href": "post_template/paper-test/index.html#photos",
+    "title": "June Trip to OHSU",
+    "section": "Photos",
+    "text": "Photos"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "What’s Happening",
     "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nJune Trip to OHSU\n\n\n\nnews\n\n\n\nJune 17-25 2025, I traveled to Portland OR for the Cascadia R Conference and Lab Meetings at OHSU!\n\n\n\n\n\nMay 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nDiscovering New Interest: BIMS Student Embraces Legen-Dairy Research Opportunities\n\n\n\nnews\n\n\n\nThanks to opportunities through the BIMS program, undergraduates are being introduced to new career paths.\n\n\n\n\n\nFeb 12, 2025\n\n\nMegan Bennett\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "g_research.html",
+    "href": "g_research.html",
+    "title": "Graduate Research",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nGrad School!\n\n\n\nevent\n\npresentation\n\n\n\nInit Grad page\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2025-05-25-june-trip-to-ohsu/index.html#travel",
+    "href": "posts/2025-05-25-june-trip-to-ohsu/index.html#travel",
+    "title": "June Trip to OHSU",
+    "section": "Travel",
+    "text": "Travel\nMay 2025, I took on the responsibility of continuing my work at Oregon Health & Science University as a part of the karstens lab, transitioning from part-time (10hrs/wk) to Full time-remote. I have been working for OHSU since June of 2024, when I was an intern in the department of Biomedical Informatics and Clinical Epidemiology. I reported to the karstens lab, whos work centers around the female urinary microbiome. I have loved my time in the karstens lab, so when a research assistant position opened up while I was completimg my unndergrad, I jumped on the oppritunity to grow my skills.\nAll that background is to say, I have not been back to portland since August ’24. Honestly, I didnt ever know If I would be back here, but doors open as they often do, and I was able to come up for a couple of lab meetings and the R Cascadia Conference."
+  },
+  {
+    "objectID": "posts/2025-05-25-june-trip-to-ohsu/index.html#r-cascadia",
+    "href": "posts/2025-05-25-june-trip-to-ohsu/index.html#r-cascadia",
+    "title": "June Trip to OHSU",
+    "section": "R Cascadia",
+    "text": "R Cascadia\nThe R cascadia conference went really well. My only other ‘conference’ experience (excluding TAMU SRW ‘24/’25) was the International Milk Genomics Consortium Symposium where I spoke about my cows, but this conferenc was really different. It was definetly a lot less ’poresent research’ based as much as it was skills improvment based. On Day 1, I got the chance to go to an all-day GitHub workshop. Previously, I had only used github to store my code, I only really knew how to push and pull stuff, but the workshops taught me a lot about the github workflow, branching, being a repo admin, leading a team in colaberative coding, and some other cool stuff. I actually used the skills I learned in the workshop to build this website, automate rendering whenever I push to main.\nI also used a lot of the skills I learned to generate my own. github workshop! On 05-24-2025, I got the chance to lead everyone in a github for R workshop that went over how to use the OHSU enterprise github accounts, and practice basic github commands on. the command line to work with karstens lab materials and start thinking about storing our code on github, not onedrive."
+  },
+  {
+    "objectID": "posts/2025-05-25-june-trip-to-ohsu/index.html#lab-work",
+    "href": "posts/2025-05-25-june-trip-to-ohsu/index.html#lab-work",
+    "title": "June Trip to OHSU",
+    "section": "Lab Work",
+    "text": "Lab Work\nGetting to see everyone in person was awsome! There are a bunch of new members in the karstens lab since last summer. When I was an intern, it only felt like me, Charles Parker, Dr. (Lisa) Karstens, and Nate Boyer (He came in as a Ph.D. student on his first rotation in late July.). Over the past year, Dr. Keisha Harrsion came on, and nate recently finished all of hes rotations, and decided to complete his Ph.D. in Dr. Karstens Lab! In addition to the mainstays, there are 3 new interns! They all seem really eager to get started, and I hope that they had as good of an experienc as I did whaen I was an Intern.\nThere have been some big changes to the karstens lab. The lab itself had to relocate from the DMICE departmet to the Knight Cennter for Cancer research on the south waterfront campus. The building, area, and campus itself are awsome. It has a very modern feel - definetly a lot more confortable than working on the hill in my opinion. The caveat of this is major hedaches for Dr.Karstens, and i guess because of the recent chancges on the government and grant side of things, there have been some funding issues, and I guess this is the last year of R25 interns! Sometimes it sucks that I want this to be my career when it is obvious from an outsider perspective that there are a bunch of people in high places that don’t want science to blossom like it has the potential to do.\nBesides gawking at all of the chancges that happened in the past year, I also did some actual work. When I flew in, I gave a 30 min presentation to introduce my work to the interns/refresh some of our lab members. It was about a 50/50 split between talikng about my analysis of classification schemes for shortread 16S rRNA Amplicon Sequencing data and talking about workflows that we are developing to process pacbio Hifi long read 16S sequencing. Working out of the Knight was super refreshing and I was able to get a lot done in that enviroment. Sometimes it is a bit easier to work in an ‘work’ enviroment, not just out of my bedroom desk where I can get distracted."
+  },
+  {
+    "objectID": "posts/2025-05-25-june-trip-to-ohsu/index.html#fun-stuff",
+    "href": "posts/2025-05-25-june-trip-to-ohsu/index.html#fun-stuff",
+    "title": "June Trip to OHSU",
+    "section": "Fun Stuff",
+    "text": "Fun Stuff\nI forgot how much I loved portland! I got the chance to go to a Portland Thorns Womens Major Leauge Soccer game with charles on saturday after the conference. We sat in GA section where their fans stand up and do all of the cheers. It reminded me a lot of an Aggie Football game with the standing the whole time and coordinated chants, but I do think that we are a little bit louder and prouder about our team lol. Regardless, I had a great time cheering on the thorns, and I hope I can go back with charles in the future! After the game we went to a bar close to the stadium. Someone called it a ‘dive bar’… The outside looked sketchy, but the inside was sick, it reminded me of the Dixie Chicken (The Marlin Hauz’s favorite spot), would rate it a 9/10 bar, there was akaryoke, cheap drinks, and great vibes.\nI also did a big walk on Sunday, wanted to hit some of my fammilar spots. I was a tad groggy from the fun night of soccer, so I started off the morning by going to one of my favorite brealkfast places, Henry Higgins Boiled Bagels in the nob hill area. They have a really good whitefish salad that I got on an everything bagel with capers, onions, dill and lemon. After that, I walked to Powells books and bought a marine biology book (it is one of those photography books that also has some really good species/taxa information), a book about industrial fishing in the 1970s and a baysiean statistics textbook. I was really tied after all of that, so came back to the hotel and took a quick powernap before heading to my favorite store in portalnd, memory den. Memory Den is a mall for vintage resellers, people buy booths I guess, and stock them whith whatever they want. There is one central point of sale, so people dont even have to man the booths, you just pick up what you want and pay at the front. I got a sick tidepool shirt from the newport aquarium and a joke tshirt that says ‘Tow Fetish’ with a picture of a tow truck (probably cant wear that one in public)\nDid a bunch of other cool stuff with the lab, with Charles, but overall, it was a great trip. I am sad to be leaving and I hope that this summer wont be the last time I colaberate with the karstens lab!"
+  },
+  {
+    "objectID": "posts/2025-05-25-june-trip-to-ohsu/index.html#photos",
+    "href": "posts/2025-05-25-june-trip-to-ohsu/index.html#photos",
+    "title": "June Trip to OHSU",
+    "section": "Photos",
+    "text": "Photos"
+  },
+  {
+    "objectID": "u_research/IMGC-post/index.html",
+    "href": "u_research/IMGC-post/index.html",
+    "title": "Presentation at the International Milk Genomics Consortium Symposium",
+    "section": "",
+    "text": "Intro\nIn october date, I was invited to come speak at the International Milk Genomics Consortium Symposium over the work that Dr. Rijnkels and I have been doing related to expression patterns of genes in holstein fresian cattle over a timecourse. I was blessed to recive a travel award by the IMGC in order to get to Davis California. This was my first academic conference that I have ever attended. My presentation went… okay. Just being blunt, this was the most people I have ever had to present to, so my presentation was a bit shaky, but we got a bunch of good feedback that will hopefully be included in the final paper.\nIn addition to visiting Davis, I got the chance to meet my dad in San Franscisco, as he does a lot of work in tech, my mom caught a flight as well, and we all had a fun weekend exploring San Fransisco, and stopping by a couple of wineries in Napa. Definitley visiting again!"
   }
 ]

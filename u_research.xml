@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Benji&#39;s Portfolio</title>
+<link>https://drganghe.github.io/quarto-academic-website-template/u_research.html</link>
+<atom:link href="https://drganghe.github.io/quarto-academic-website-template/u_research.xml" rel="self" type="application/rss+xml"/>
+<description>Quarto Academic Website Template adapted by Dr. Gang He</description>
+<image>
+<url>https://quarto.org/quarto.png</url>
+<title>Benji&#39;s Portfolio</title>
+<link>https://drganghe.github.io/quarto-academic-website-template/u_research.html</link>
+</image>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Wed, 12 Feb 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Discovering New Interest: BIMS Student Embraces Legen-Dairy Research Opportunities</title>
+  <link>https://drganghe.github.io/quarto-academic-website-template/</link>
+  <description>Thanks to opportunities through the BIMS program, undergraduates are being introduced to new career paths.</description>
+  <category>news</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/</guid>
+  <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/imgc_award.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Sequence Processing for the Equine Infectious Disease Lab</title>
+  <dc:creator>Benji Lamp</dc:creator>
+  <dc:creator>Angela Bordin PhD DVM</dc:creator>
+  <dc:creator>Noah Cohen PhD DVM</dc:creator>
+  <dc:creator>Ivan Ivanov PhD</dc:creator>
+  <link>https://drganghe.github.io/quarto-academic-website-template/u_research/equine-monocytes/</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--Include academic icons or bottons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.</p>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Published <a href="https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777">paper</a></p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1103/PhysRev.47.777"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{lamp1935,
+  author = {Lamp, Benji and Bordin PhD DVM, Angela and Cohen PhD DVM,
+    Noah and Ivanov PhD, Ivan},
+  title = {Sequence {Processing} for the {Equine} {Infectious} {Disease}
+    {Lab}},
+  journal = {Physical Review},
+  volume = {47},
+  number = {7938},
+  pages = {777-80},
+  date = {1935-05-15},
+  url = {https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777},
+  doi = {10.1103/PhysRev.47.777},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-lamp1935" class="csl-entry quarto-appendix-citeas">
+Lamp, Benji, Angela Bordin PhD DVM, Noah Cohen PhD DVM, and Ivan Ivanov
+PhD. 1935. <span>“Sequence Processing for the Equine Infectious Disease
+Lab.”</span> <em>Physical Review</em> 47 (7938): 777–80. <a href="https://doi.org/10.1103/PhysRev.47.777">https://doi.org/10.1103/PhysRev.47.777</a>.
+</div></div></section></div> ]]></description>
+  <category>Bioinformatics</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/u_research/equine-monocytes/</guid>
+  <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/quarto-academic-website-template/u_research/equine-monocytes/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Presentation at the International Milk Genomics Consortium Symposium</title>
+  <dc:creator>Benji Lamp</dc:creator>
+  <dc:creator>Monique Rijnkels PhD</dc:creator>
+  <link>https://drganghe.github.io/quarto-academic-website-template/u_research/IMGC-post/</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--Include academic icons or bottons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<section id="intro" class="level1">
+<h1>Intro</h1>
+<p>In october <em>date</em>, I was invited to come speak at the International Milk Genomics Consortium Symposium over the work that Dr.&nbsp;Rijnkels and I have been doing related to expression patterns of genes in holstein fresian cattle over a timecourse. I was blessed to recive a travel award by the IMGC in order to get to Davis California. This was my first academic conference that I have ever attended. My presentation went… okay. Just being blunt, this was the most people I have ever had to present to, so my presentation was a bit shaky, but we got a bunch of good feedback that will hopefully be included in the final paper.</p>
+<p>In addition to visiting Davis, I got the chance to meet my dad in San Franscisco, as he does a lot of work in tech, my mom caught a flight as well, and we all had a fun weekend exploring San Fransisco, and stopping by a couple of wineries in Napa. Definitley visiting again!</p>
+
+
+</section>
+
+ ]]></description>
+  <category>presentations</category>
+  <category>awards</category>
+  <category>cows</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/u_research/IMGC-post/</guid>
+  <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/quarto-academic-website-template/u_research/IMGC-post/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
