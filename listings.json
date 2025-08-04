@@ -1,26 +1,5 @@
 [
   {
-    "listing": "/u_research.html",
-    "items": [
-      "/u_research/equine-monocytes/index.html",
-      "/u_research/IMGC-post/index.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/posts/2025-05-25-june-trip-to-ohsu/index.html"
-    ]
-  },
-  {
-    "listing": "/projects.html",
-    "items": []
-  },
-  {
-    "listing": "/people.html",
-    "items": []
-  },
-  {
     "listing": "/posts.html",
     "items": [
       "/posts/2025-05-25-june-trip-to-ohsu/index.html"
@@ -31,5 +10,26 @@
     "items": [
       "/g_research/event-title/index.html"
     ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/2025-05-25-june-trip-to-ohsu/index.html"
+    ]
+  },
+  {
+    "listing": "/u_research.html",
+    "items": [
+      "/u_research/equine-monocytes/index.html",
+      "/u_research/IMGC-post/index.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": []
+  },
+  {
+    "listing": "/projects.html",
+    "items": []
   }
 ]
