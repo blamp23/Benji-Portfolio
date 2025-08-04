@@ -1,11 +1,5 @@
 [
   {
-    "listing": "/posts.html",
-    "items": [
-      "/posts/2025-05-25-june-trip-to-ohsu/index.html"
-    ]
-  },
-  {
     "listing": "/g_research.html",
     "items": [
       "/g_research/event-title/index.html"
@@ -25,11 +19,9 @@
     ]
   },
   {
-    "listing": "/people.html",
-    "items": []
-  },
-  {
-    "listing": "/projects.html",
-    "items": []
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2025-05-25-june-trip-to-ohsu/index.html"
+    ]
   }
 ]

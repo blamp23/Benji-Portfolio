@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Microarray Example\n\n\n\nVTPP 438 — Analysis of Genomic Signals\nFall 2024 — Teaching Assistant\nDepartment of Veterinary Physiology & Pharmacology (Dr. Ivan Ivanov)\nI co-designed an introductory R curriculum for microarray analysis and mentored students on:\n\nLoading and preprocessing expression sets\n\nDifferential expression with limma\n\nBuilding reproducible, well-documented workflows in R Markdown\n\nThe goal was not just mastering software, but cultivating reproducible-science habits."
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "What’s Happening",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nJune Trip to OHSU\n\n\n\nnews\n\n\n\nJune 17-25 2025, I traveled to Portland OR for the Cascadia R Conference and Lab Meetings at OHSU!\n\n\n\n\n\nMay 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nDiscovering New Interest: BIMS Student Embraces Legen-Dairy Research Opportunities\n\n\n\nnews\n\n\n\nThanks to opportunities through the BIMS program, undergraduates are being introduced to new career paths.\n\n\n\n\n\nFeb 12, 2025\n\n\nMegan Bennett\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "g_research.html",
     "href": "g_research.html",
     "title": "Graduate Research",
@@ -196,31 +182,17 @@
     "text": "Photos"
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "What’s Happening",
     "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nJune Trip to OHSU\n\n\n\nnews\n\n\n\nJune 17-25 2025, I traveled to Portland OR for the Cascadia R Conference and Lab Meetings at OHSU!\n\n\n\n\n\nMay 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nDiscovering New Interest: BIMS Student Embraces Legen-Dairy Research Opportunities\n\n\n\nnews\n\n\n\nThanks to opportunities through the BIMS program, undergraduates are being introduced to new career paths.\n\n\n\n\n\nFeb 12, 2025\n\n\nMegan Bennett\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "people.html#team",
-    "href": "people.html#team",
-    "title": "People",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Microarray Example\n\n\n\nVTPP 438 — Analysis of Genomic Signals\nFall 2024 — Teaching Assistant\nDepartment of Veterinary Physiology & Pharmacology (Dr. Ivan Ivanov)\nI co-designed an introductory R curriculum for microarray analysis and mentored students on:\n\nLoading and preprocessing expression sets\n\nDifferential expression with limma\n\nBuilding reproducible, well-documented workflows in R Markdown\n\nThe goal was not just mastering software, but cultivating reproducible-science habits."
   }
 ]
