@@ -15,15 +15,55 @@
 <link>https://drganghe.github.io/quarto-academic-website-template/u_research.html</link>
 </image>
 <generator>quarto-1.7.32</generator>
-<lastBuildDate>Wed, 12 Feb 2025 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Feb 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Discovering New Interest: BIMS Student Embraces Legen-Dairy Research Opportunities</title>
   <link>https://drganghe.github.io/quarto-academic-website-template/</link>
   <description>Thanks to opportunities through the BIMS program, undergraduates are being introduced to new career paths.</description>
   <category>news</category>
   <guid>https://drganghe.github.io/quarto-academic-website-template/</guid>
-  <pubDate>Wed, 12 Feb 2025 08:00:00 GMT</pubDate>
+  <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/imgc_award.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Presentation at the International Milk Genomics Consortium Symposium</title>
+  <dc:creator>Benji Lamp</dc:creator>
+  <dc:creator>Monique Rijnkels PhD</dc:creator>
+  <link>https://drganghe.github.io/quarto-academic-website-template/u_research/IMGC-post/</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--Include academic icons or bottons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<section id="intro" class="level1">
+<h1>Intro</h1>
+<p>In october <em>date</em>, I was invited to come speak at the International Milk Genomics Consortium Symposium over the work that Dr.&nbsp;Rijnkels and I have been doing related to expression patterns of genes in holstein fresian cattle over a timecourse. I was blessed to recive a travel award by the IMGC in order to get to Davis California. This was my first academic conference that I have ever attended. My presentation went… okay. Just being blunt, this was the most people I have ever had to present to, so my presentation was a bit shaky, but we got a bunch of good feedback that will hopefully be included in the final paper.</p>
+<p>In addition to visiting Davis, I got the chance to meet my dad in San Franscisco, as he does a lot of work in tech, my mom caught a flight as well, and we all had a fun weekend exploring San Fransisco, and stopping by a couple of wineries in Napa. Definitley visiting again!</p>
+
+
+</section>
+
+ ]]></description>
+  <category>presentations</category>
+  <category>awards</category>
+  <category>cows</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/u_research/IMGC-post/</guid>
+  <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/quarto-academic-website-template/u_research/IMGC-post/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Sequence Processing for the Equine Infectious Disease Lab</title>
@@ -86,48 +126,8 @@ Lab.”</span> <em>Physical Review</em> 47 (7938): 777–80. <a href="https://do
 </div></div></section></div> ]]></description>
   <category>Bioinformatics</category>
   <guid>https://drganghe.github.io/quarto-academic-website-template/u_research/equine-monocytes/</guid>
-  <pubDate>Sat, 01 Feb 2025 08:00:00 GMT</pubDate>
+  <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/quarto-academic-website-template/u_research/equine-monocytes/featured.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Presentation at the International Milk Genomics Consortium Symposium</title>
-  <dc:creator>Benji Lamp</dc:creator>
-  <dc:creator>Monique Rijnkels PhD</dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/u_research/IMGC-post/</link>
-  <description><![CDATA[ 
-
-
-
-
-<!--Include academic icons or bottons-->
-<!-- 
-Load Academicons v1: https://jpswalsh.github.io/academicons/
--->
-<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
-<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
-<!---
-The following code are needed to show dimension citation and altmetrics.
-https://api.altmetric.com/embeds.html
-https://badge.dimensions.ai/
---->
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
-<section id="intro" class="level1">
-<h1>Intro</h1>
-<p>In october <em>date</em>, I was invited to come speak at the International Milk Genomics Consortium Symposium over the work that Dr.&nbsp;Rijnkels and I have been doing related to expression patterns of genes in holstein fresian cattle over a timecourse. I was blessed to recive a travel award by the IMGC in order to get to Davis California. This was my first academic conference that I have ever attended. My presentation went… okay. Just being blunt, this was the most people I have ever had to present to, so my presentation was a bit shaky, but we got a bunch of good feedback that will hopefully be included in the final paper.</p>
-<p>In addition to visiting Davis, I got the chance to meet my dad in San Franscisco, as he does a lot of work in tech, my mom caught a flight as well, and we all had a fun weekend exploring San Fransisco, and stopping by a couple of wineries in Napa. Definitley visiting again!</p>
-
-
-</section>
-
- ]]></description>
-  <category>presentations</category>
-  <category>awards</category>
-  <category>cows</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/u_research/IMGC-post/</guid>
-  <pubDate>Sat, 01 Feb 2025 08:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/u_research/IMGC-post/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
