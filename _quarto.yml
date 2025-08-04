@@ -71,7 +71,7 @@ website:
   
   reader-mode: true
 
-  draft-mode: unlinked
+   #draft-mode: unlinked
   
   repo-url: https://github.com/drganghe/quarto-academic-website-template
 #  repo-actions: [edit, issue, source]
